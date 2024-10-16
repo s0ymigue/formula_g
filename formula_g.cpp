@@ -43,7 +43,7 @@ int main() {
         x1=(-(b)+raiz)/2*(a);
         x2=(-(b)-raiz)/2*(a);
     }
-    //imrpimirlos
+    //imrpimirlos.
     cout<<"El valor de x1: "<<x1<<endl;
     cout<<"El valor de x2: "<<x2<<endl;
 return 0;
